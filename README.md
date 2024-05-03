@@ -4,5 +4,5 @@ I am currently improving my Java skills and starting to learn AWS and other clou
 
 When I graduate in December of 2024, I am looking to bring my software development skills in to a fast-paced company that prioritizes innovation as a SWE full-time.
 
-Top Languages: Java, C/C++, Python, SQL, F#
+Top Languages: Java, C/C++, Python, SQL, F#, Go
 Professional Associations: Association for Computing Machinery, Google Developer Student Club, Linux User's Group
